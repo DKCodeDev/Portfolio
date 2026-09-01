@@ -12,9 +12,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I’m a Computer Science and Engineering student at{" "}
-              <b className="purple">LJ University</b>, currently entering{" "}
-              <b className="purple">Semester 5</b>, with an expected
-              graduation in <b className="purple">2028</b>. I’m an aspiring{" "}
+              <b className="purple">LJ University</b>. I’m an aspiring{" "}
               <b className="purple">Full Stack Developer</b> who enjoys
               building practical web applications and learning modern
               technologies.
