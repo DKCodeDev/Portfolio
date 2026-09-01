@@ -14,10 +14,6 @@ function AboutCard() {
             </span>{" "}
             student at <span className="purple">LJ University</span>.
             <br />
-            I’m currently entering{" "}
-            <span className="purple">Semester 5</span>, with an expected
-            graduation in <span className="purple">2028</span>.
-            <br />
             I’m an aspiring{" "}
             <span className="purple">Full Stack Developer</span>, looking
             for software / web development{" "}
