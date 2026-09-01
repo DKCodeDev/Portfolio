@@ -1,0 +1,36 @@
+<svg width="400" height="250" viewBox="0 0 400 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradTravel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1224"/>
+      <stop offset="100%" stop-color="#0a0e17"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="250" fill="url(#bgGradTravel)"/>
+  <circle cx="355" cy="15" r="120" fill="#0ea5e9" opacity="0.12"/>
+  <circle cx="20" cy="240" r="90" fill="#0ea5e9" opacity="0.08"/>
+
+  <!-- terminal window (console-based app) -->
+  <rect x="40" y="38" width="320" height="172" rx="12" fill="#0d1526" stroke="#22335a" stroke-width="1.5"/>
+  <rect x="40" y="38" width="320" height="30" rx="12" fill="#16233d"/>
+  <rect x="40" y="56" width="320" height="12" fill="#16233d"/>
+  <circle cx="58" cy="53" r="5" fill="#ff5f56"/>
+  <circle cx="76" cy="53" r="5" fill="#ffbd2e"/>
+  <circle cx="94" cy="53" r="5" fill="#27c93f"/>
+  <rect x="130" y="47" width="160" height="11" rx="5.5" fill="#22335a"/>
+
+  <!-- terminal prompt lines -->
+  <text x="60" y="102" font-family="monospace" font-size="14" fill="#0ea5e9">&gt; plan_trip --dest "Kyoto"</text>
+  <text x="60" y="124" font-family="monospace" font-size="14" fill="#e5edf7" opacity="0.8">saving to MySQL... done</text>
+  <text x="60" y="146" font-family="monospace" font-size="14" fill="#2a9d8f" opacity="0.9">✓ itinerary stored</text>
+  <rect x="60" y="160" width="10" height="16" fill="#0ea5e9"/>
+
+  <!-- dotted travel route -->
+  <path d="M60 194 Q 150 176 220 196 T 300 190" fill="none" stroke="#2a3b5e" stroke-width="2" stroke-dasharray="4 5"/>
+  <circle cx="60" cy="194" r="4" fill="#0ea5e9"/>
+  <circle cx="300" cy="190" r="4" fill="#0ea5e9"/>
+
+  <!-- map pin icon badge -->
+  <circle cx="336" cy="196" r="28" fill="#0ea5e9"/>
+  <path d="M336 184 c-7 0 -12 5 -12 12 c0 8 12 20 12 20 s12 -12 12 -20 c0 -7 -5 -12 -12 -12 z" fill="#0a0e17"/>
+  <circle cx="336" cy="196" r="4" fill="#0ea5e9"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="400" height="250" viewBox="0 0 400 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradMedway" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1224"/>
+      <stop offset="100%" stop-color="#0a0e17"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="250" fill="url(#bgGradMedway)"/>
+  <circle cx="355" cy="15" r="120" fill="#38bdf8" opacity="0.12"/>
+  <circle cx="20" cy="240" r="90" fill="#38bdf8" opacity="0.08"/>
+
+  <!-- browser window -->
+  <rect x="40" y="38" width="320" height="172" rx="12" fill="#111a2c" stroke="#22335a" stroke-width="1.5"/>
+  <rect x="40" y="38" width="320" height="30" rx="12" fill="#16233d"/>
+  <rect x="40" y="56" width="320" height="12" fill="#16233d"/>
+  <circle cx="58" cy="53" r="5" fill="#ff5f56"/>
+  <circle cx="76" cy="53" r="5" fill="#ffbd2e"/>
+  <circle cx="94" cy="53" r="5" fill="#27c93f"/>
+  <rect x="130" y="47" width="160" height="11" rx="5.5" fill="#22335a"/>
+
+  <!-- code lines -->
+  <rect x="60" y="90" width="140" height="9" rx="4.5" fill="#38bdf8"/>
+  <rect x="210" y="90" width="70" height="9" rx="4.5" fill="#2a3b5e"/>
+  <rect x="60" y="112" width="90" height="9" rx="4.5" fill="#e5edf7"/>
+  <rect x="160" y="112" width="120" height="9" rx="4.5" fill="#2a3b5e"/>
+  <rect x="60" y="134" width="180" height="9" rx="4.5" fill="#2a3b5e"/>
+  <rect x="60" y="156" width="60" height="9" rx="4.5" fill="#38bdf8"/>
+  <rect x="130" y="156" width="150" height="9" rx="4.5" fill="#e5edf7" opacity="0.7"/>
+  <rect x="60" y="178" width="220" height="9" rx="4.5" fill="#2a3b5e"/>
+
+  <!-- medical icon badge -->
+  <circle cx="336" cy="196" r="28" fill="#38bdf8"/>
+  <rect x="330" y="182" width="12" height="28" rx="2" fill="#0a0e17"/>
+  <rect x="322" y="190" width="28" height="12" rx="2" fill="#0a0e17"/>
+</svg>
