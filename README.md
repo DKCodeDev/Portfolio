@@ -75,3 +75,11 @@ Every push to the main branch will trigger a new deployment automatically.
 - GitHub: [DKCodeDev](https://github.com/DKCodeDev)
 - LinkedIn: [dave-khushi](https://www.linkedin.com/in/dave-khushi-2a1a32358/)
 - Email: [davekhushi77@gmail.com](mailto:davekhushi77@gmail.com)
+
+## Credits
+
+This portfolio was originally based on the portfolio template created by
+[Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
+
+The template has been customized and modified with my own information,
+projects, design, images, and content.
